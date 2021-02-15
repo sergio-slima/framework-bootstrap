@@ -4,11 +4,10 @@
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 
-#### 🏁 Tabela de conteúdos
-=================
+#### 🏁 Tópicos
 <!--ts-->
-   * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Tecnologias](#tecnologias)
+   * [Conteúdo](#conteudo)
    * [Autor](#autor)   
 <!--te-->
 
@@ -20,6 +19,17 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [CSS](https://www.w3schools.com/css/)
 - [JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
 
+
+#### 🛠 Conteúdo
+
+Na construção do projeto vimos:
+
+- [Framework bootstrap](https://getbootstrap.com/)
+- Navbar: adicionando logo e itens de navegação dentro da tag de ordenação
+- Section: tag section para fazer as divisões de cada conteúdo dentro da página
+- Conteiner-Fluid: utilizado para preencher toda a página web
+- Col: aplicando colunas para personalizar tópicos
+- Img: tag img e suas propriedades, por exemplo: class="rounded-circle", deixando a imagem redonda
 
 ---
 
